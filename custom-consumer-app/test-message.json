@@ -1,0 +1,14 @@
+[
+  {
+    "MessageId": "ce801447-a5e8-4990-a457-d7a1ccef18d9",
+    "ReceiptHandle": "abc1234567890",
+    "MD5OfBody": "231d30f2ce0a5cdb09016d571f19b7ea",
+    "Body": "My Message 3"
+  },
+  {
+    "MessageId": "918e3a36-d775-4134-8cbf-18f19510e832",
+    "ReceiptHandle": "abc987654321d0",
+    "MD5OfBody": "95d5373acdd27a3fcc6999f7970d0c31",
+    "Body": "My Message 4"
+  }
+]
